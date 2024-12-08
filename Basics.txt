@@ -1,0 +1,16 @@
+This is the file where we will share all practice question to learn React.
+Day-1:
+Before learning React we have some prerequisite:
+
+1. HTML and CSS.
+2. Node Package Manager .
+3. Fundamentals of JavaScript and ES6.
+4. JavaScript XML(JSX) and Babel.
+5. Bootstrap 4.
+6. Git and CLI (Command Line Interface)
+
+To set up a React development environment, you can:
+Install Node.js and npm
+Create a React project with Create React App (CRA)
+Explore the project structure
+Run the development server 
